@@ -46,7 +46,7 @@ Zusätzlich kann ein JSONRPC Port geöffnet werden, welcher den Port `22555` als
 
 ## Laufende Entwicklungen - Fahrplan zum Mond 🌒
 
-Dogecoin Core ist eine Open-Source Software und wird von der Community entwickelt.
+Dogecoin Core ist eine Open-Source-Software und wird von der Community entwickelt.
 Der Entwicklungsprozess ist transparent und öffentlich einsehbar; jeder kann ihn sehen, darüber diskutieren und daran teilhaben!
 
 Die wichtigsten Entwicklungsressourcen:
