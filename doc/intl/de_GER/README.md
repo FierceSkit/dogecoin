@@ -77,7 +77,7 @@ Es gibt 4 Arten von "Branches" in diesem Repository:
  
 Falls Sie einen Fehler oder Probleme beim Verwenden dieser Software finden, melden Sie diese über das vorhandene [Ticket System](https://github.com/dogecoin/dogecoin/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5Bbug%5D+).
  
-Wenn Sie an der Mithilfe oder der Entwicklung von Dogecoin Core interessiert sind sehen Sie sich Bitte den [Beitragsleitfaden](CONTRIBUTING.md) an.
+Wenn Sie an der Mithilfe oder der Entwicklung von Dogecoin Core interessiert sind, sehen Sie sich bitte den [Beitragsleitfaden](CONTRIBUTING.md) an.
 Oft gibt es Themen, die [Hilfe](https://github.com/dogecoin/dogecoin/labels/help%20wanted) benötigen. Ihr Beitrag könnte einen hohen Stellenwert haben und wird daher auch sehr geschätzt.
  
 ## Communities 🚀🍾
