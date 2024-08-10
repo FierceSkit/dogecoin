@@ -59,7 +59,7 @@ Die wichtigsten Entwicklungsressourcen:
 
 ### Versionsstrategie
 
-Die Vergabe der Versionsnummern efolgt nach dem Prinzip von ```major.minor.patch```.
+Die Vergabe der Versionsnummern erfolgt nach dem Prinzip von ```major.minor.patch```.
 
 ### Branches
 Es gibt 4 Arten von "Branches" in diesem Repository:
