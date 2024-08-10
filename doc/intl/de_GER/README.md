@@ -17,7 +17,7 @@ Bevor Sie die Binärdateien selbst kompilieren, überprüfen Sie bitte, ob eine 
 Eine internationale Dokumentation finden Sie unter [doc/intl](doc/intl/README.md).
  
 Dogecoin ist eine als Gemeinschaftsprojekt betriebene Kryptowährung, die von einem Shiba-Inu-Meme inspiriert wurde.
-Die Dogecoin-Core-Software ermöglicht es Jedem, einen Knotenpunkt, so genannte "Nodes" im Dogecoin-Blockchain-Netzwerk zu betreiben.
+Die Dogecoin-Core-Software ermöglicht es Jedem, einen Knotenpunkt, sog. "Nodes" im Dogecoin-Blockchain-Netzwerk zu betreiben.
 Dogecoin verwendet das Scrypt-Hashing-Verfahren für "Proof of Work" und wurde von Bitcoin Core und anderen Kryptowährungen adaptiert.
  
 Informationen über anfallende Standard-Transaktionsgebühren auf dem Dogecoin-Netzwerk finden Sie unter [Transaktionsgebühren](doc/fee-recommendation.md).
@@ -35,9 +35,9 @@ Die in Dogecoin Core enthaltene JSON-RPC-API ist selbstdokumentiert und kann mit
 Dogecoin Core verwendet den Port `22556` als Standart-Port zur Kommunkation
 mit dem Peer-to-Peer Netzwerk und um die "Mainnet" Blockchain zu Synchronisieren.
 Dies ist notwendig um über neue Transaktionen und Blöcke informiert zu bleiben.
-Zusätzlich kann ein JSONRPC Port geöffnet werden, welcher den Port `22555` als Standartport für Mainnet Nodes verwendet.
+Zusätzlich kann ein JSON-RPC-Port geöffnet werden, welcher den Port `22555` als Standart-Port für Mainnet-Nodes verwendet.
 
-**Es wird STRENGSTENS davon abgeraten RPC Ports im öffentlichen Internet Sichtbar zu machen!**
+**Es wird STRENGSTENS davon abgeraten, RPC-Ports im öffentlichen Internet sichtbar zu machen!**
 
 | Funktion | mainnet | testnet | regtest |
 | :------- | ------: | ------: | ------: |
@@ -62,7 +62,7 @@ Die wichtigsten Entwicklungsressourcen:
 Die Vergabe der Versionsnummern erfolgt nach dem Prinzip von ```major.minor.patch```.
 
 ### Branches
-Es gibt 4 Arten von "Branches" in diesem Repository:
+Es gibt 4 Arten von sog. "Branches" (Unterverzweigungen) in diesem Repository:
 
 - **master:** Instabil - Enthält den neuesten Code, der sich derzeit in der Entwicklung befindet.
 - **maintenance:** Stabil, enthält die neueste Version früherer Versionen, die noch aktiv gewartet werden. Format: ```<version>-maint```
