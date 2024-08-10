@@ -84,7 +84,7 @@ Oft gibt es Themen, die [Hilfe](https://github.com/dogecoin/dogecoin/labels/help
  
 Sie können den Communities auf verschiedenen sozialen Medien beitreten.
 Herzlich sind sie Eingeladen sich umzusehen um neue Leute kennenzulernen, die neueste Memes zu teilen, um Hilfe anzubieten oder auch zu erhalten und an Diskussionen teilzuhaben.
-Vielleicht findet sich ja auch Jemand, der Ihnen bei ihren Projekten behilflich sein kann.
+Vielleicht findet sich ja auch jemand, der Ihnen bei Ihren Projekten behilflich sein kann.
  
 Hier sind einige informative Links, die Sie interessieren könnten:
  
