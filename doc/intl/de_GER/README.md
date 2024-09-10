@@ -66,7 +66,7 @@ Es gibt 4 Arten von sog. "Branches" (Unterverzweigungen) in diesem Repository:
 
 - **master:** Instabil - Enthält den neuesten Code, der sich derzeit in der Entwicklung befindet.
 - **maintenance:** Stabil, enthält die neueste Version früherer Versionen, die noch aktiv gewartet werden. Format: ```<version>-maint```
-- **development:** Intabil, enthält neuen Code für kommende Versionen. Format: ```<version>-dev```
+- **development:** Instabil, enthält neuen Code für kommende Versionen. Format: ```<version>-dev```
 - **archive:** Stabile, unveränderliche Branches für alte Versionen, die sich nicht mehr ändern, weil sie nicht mehr gepflegt werden.
 
 ***Reichen Sie Ihre Pull-Requests im `master`-Branch ein!***
