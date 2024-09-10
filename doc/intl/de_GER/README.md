@@ -17,7 +17,7 @@ Bevor Sie die Binärdateien selbst kompilieren, überprüfen Sie bitte, ob eine 
 Eine internationale Dokumentation finden Sie unter [doc/intl](doc/intl/README.md).
  
 Dogecoin ist eine als Gemeinschaftsprojekt betriebene Kryptowährung, die von einem Shiba-Inu-Meme inspiriert wurde.
-Die Dogecoin-Core-Software ermöglicht es Jedem, einen Knotenpunkt, sog. "Nodes" im Dogecoin-Blockchain-Netzwerk zu betreiben.
+Die Dogecoin-Core-Software ermöglicht es Jedem, einen Knotenpunkt, (sog. "Nodes") im Dogecoin-Blockchain-Netzwerk zu betreiben.
 Dogecoin verwendet das Scrypt-Hashing-Verfahren für "Proof of Work" und wurde von Bitcoin Core und anderen Kryptowährungen adaptiert.
  
 Informationen über anfallende Standard-Transaktionsgebühren auf dem Dogecoin-Netzwerk finden Sie unter [Transaktionsgebühren](doc/fee-recommendation.md).
