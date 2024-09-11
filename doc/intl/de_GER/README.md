@@ -33,7 +33,7 @@ Die in Dogecoin Core enthaltene JSON-RPC-API ist selbstdokumentiert und kann mit
 ### Viele Ports
 
 Dogecoin Core verwendet den Port `22556` als Standart-Port zur Kommunikation
-mit dem Peer-to-Peer Netzwerk und um die "Mainnet" Blockchain zu Synchronisieren.
+mit dem Peer-to-Peer Netzwerk und um die "Mainnet" Blockchain zu synchronisieren.
 Dies ist notwendig um über neue Transaktionen und Blöcke informiert zu bleiben.
 Zusätzlich kann ein JSON-RPC-Port geöffnet werden, welcher den Port `22555` als Standart-Port für Mainnet-Nodes verwendet.
 
