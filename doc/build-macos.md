@@ -1,7 +1,6 @@
 # Building Dogecoin Core on MacOS #
 
-Tested on Intel (x86_64): MacOs Ventura and Sonoma
-Tested on Apple Silicon (arm64): MacOs Ventura and Sonoma (M1) & Sequoia (M1 + M4)
+Tested on Intel (x86_64) and Apple Silicon (arm64): MacOs Ventura, Sonoma & Sequoia
 
 ### Clone dogecoin locally, or check it out, etc. ###
 
